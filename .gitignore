@@ -1,0 +1,11 @@
+# Your captures, logs and downloaded prices stay on your machine
+market.db
+*.log
+*.log.*
+.cache/
+__pycache__/
+
+# The Albion Data Client: download it from https://github.com/ao-data/albiondata-client
+tools/
+
+.DS_Store
